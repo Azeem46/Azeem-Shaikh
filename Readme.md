@@ -10,6 +10,8 @@ To build a Chrome extension that runs on LinkedIn and assists users in generatin
 
 Here is a video demonstration of the project:
 
+https://github.com/user-attachments/assets/9e117a9a-7e19-424c-bfa4-4442a9835559
+
 ## Contributing
 
 If you would like to contribute to this project, please follow these steps:
