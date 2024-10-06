@@ -1,6 +1,4 @@
-# Project Title
-
-Linkedin-ai-reply-extension
+# Linkedin-AI-Reply-extension
 
 ## Description
 
